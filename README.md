@@ -1,7 +1,7 @@
 # dystapi
 Dystematic API
 
-bash```
+```bash
 git clone https://github.com/RicardoFavas/dystboard.git dystapi
 cd dystapi
 docker build -t dystapi .
